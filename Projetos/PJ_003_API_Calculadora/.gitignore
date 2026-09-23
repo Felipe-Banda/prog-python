@@ -1,0 +1,10 @@
+# Ignorar ambiente virtual
+venv/
+env/
+
+# Ignorar cache do Python e dependências do FastAPI
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de ambiente (se usar no futuro)
+.env
